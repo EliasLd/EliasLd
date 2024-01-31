@@ -22,7 +22,7 @@
 
 ###
 
-<p align="left">I'm from Paris, France<br><br>- 🔍 I am currently a second year student in engineering school engineering school<br><br>- 📚 My courses cover mathematics, thermodynamics, mechanics, programming and algorithms. In two years, I will specialize in cybersecurity and connected objects. I am currently looking for an apprenticeship in embedded systems.<br><br>- 🚀 In my free time, I play video games (and sometimes create them 😉), I read manga and play volleyball. Being passionate about electronics, I spend a lot of time developing projects on electronic boards of all kinds, it's fascinating!</p>
+<p align="left">I'm from Paris, France<br><br>- 🔍 I am currently a second year student in engineering school<br><br>- 📚 My courses cover mathematics, thermodynamics, mechanics, programming and algorithms. In two years, I will specialize in cybersecurity and connected objects. I am currently looking for an apprenticeship in embedded systems.<br><br>- 🚀 In my free time, I play video games (and sometimes create them 😉), I read manga and play volleyball. Being passionate about electronics, I spend a lot of time developing projects on electronic boards of all kinds, it's fascinating!</p>
 
 ###
 
