@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there 🌠
+
+![](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXJpbmt4dzIyNncxNTJ1dDJuNXM1emc0ZG9xMTIzdnllZWp3c3J6cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HRXnPYf10Zx0wz4alF/giphy.gif)
 
 <!--
 **EliasLd/EliasLd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
